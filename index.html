@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Swedish Driving Theory Test Simulator</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="app">
+
+  <!-- START SCREEN -->
+  <section id="screen-start" class="screen">
+    <div class="card">
+      <h1>Swedish Driving Theory Test</h1>
+      <p class="subtitle">Practice exam simulator</p>
+      <ul class="rules">
+        <li><strong>65</strong> questions, randomly drawn from a bank of <strong id="bank-size">100</strong></li>
+        <li><strong>50 minutes</strong> on the clock, counting down in the background</li>
+        <li>Pass mark: <strong>52 / 65</strong> correct (80%), matching the real Trafikverket exam</li>
+        <li>Navigate freely between questions and change answers before submitting</li>
+        <li>The test auto-submits when time runs out</li>
+      </ul>
+      <p class="source-note">Questions are grounded in Körkortonline.se's official Theory Book. Some are the book's own verified questions (with real photos); the rest are AI-generated practice questions based on the book's text — look for the source tag on each question.</p>
+      <button id="btn-start" class="btn-primary">Start test</button>
+      <div id="resume-note" class="resume-note hidden">
+        <span>You have a test in progress.</span>
+        <button id="btn-resume" class="btn-secondary">Resume</button>
+        <button id="btn-discard" class="btn-text">Discard</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXAM SCREEN -->
+  <section id="screen-exam" class="screen hidden">
+    <header class="exam-header">
+      <div class="timer" id="timer">50:00</div>
+      <div class="progress-summary">
+        <span id="answered-count">0</span> / 65 answered
+      </div>
+      <button id="btn-submit" class="btn-primary btn-small">Submit test</button>
+    </header>
+
+    <div class="exam-body">
+      <nav id="question-nav" class="question-nav"></nav>
+
+      <main class="question-panel">
+        <div class="question-meta">
+          <span id="q-index"></span>
+          <span id="q-chapter" class="tag"></span>
+          <span id="q-source" class="tag"></span>
+        </div>
+        <h2 id="q-text"></h2>
+        <div id="q-images" class="q-images"></div>
+        <div id="q-options" class="q-options"></div>
+        <div class="question-actions">
+          <button id="btn-prev" class="btn-secondary">Previous</button>
+          <button id="btn-flag" class="btn-secondary">Flag for review</button>
+          <button id="btn-next" class="btn-secondary">Next</button>
+        </div>
+      </main>
+    </div>
+  </section>
+
+  <!-- RESULTS SCREEN -->
+  <section id="screen-results" class="screen hidden">
+    <div class="card results-card">
+      <h1 id="result-headline"></h1>
+      <p id="result-score" class="result-score"></p>
+      <button id="btn-review-toggle" class="btn-secondary">Show review</button>
+      <button id="btn-restart" class="btn-primary">New test</button>
+      <div id="review-list" class="review-list hidden"></div>
+    </div>
+  </section>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

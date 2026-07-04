@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "book-001",
+    "source": "book-verified",
+    "chapter": "Introduction",
+    "question": "You intend to turn right at the junction. Are you obliged to give way to vehicles approaching from the left?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 1,
+    "explanation": "Traffic signals always take priority over road signs. The road sign indicating the\nobligation to give way only applies if the traffic signals are not functioning.\n“An instruction by means of a non-flashing light at a traffic signal applies ahead of\nan instruction concerning an obligation to stop or an obligation to give way that is\nprovided by means of a road sign.” (Road Traffic Ordinance)\nGreen (SIG3)",
+    "images": [
+      "images/book-001_p10-010.jpg",
+      "images/book-001_p11-011.jpg"
+    ]
+  },
+  {
+    "id": "book-002",
+    "source": "book-verified",
+    "chapter": "Lanes",
+    "question": "How many lanes does this road have?",
+    "options": [
+      "0 lanes.",
+      "1 lane.",
+      "2 lanes.",
+      "4 lanes."
+    ],
+    "correctIndex": 2,
+    "explanation": "Lane: “A longitudinal field on a carriageway shown by road markings or, if there\nare no road markings, that is wide enough for traffic in one file of four-wheeled\nvehicles”. (Ordinance on Road Traffic Definitions)\nBecause there are no road markings, you must use your own judgement. In this\nexample, it is clear that there is sufficient room for 2 cars to be driven alongside each\nother. The road could perhaps be wide enough for 4 cars, but they would not be able\nto be driven in a normal or safe manner.\nYou can interpret “wide enough for traffic in one file of four-wheeled vehicles” as\nmeaning that there must be reasonable safety margins between the vehicles, and not\nthat the vehicles are packed closely together with just 10 cm between them.",
+    "images": [
+      "images/book-002_p18-018.jpg",
+      "images/book-002_p19-019.jpg"
+    ]
+  },
+  {
+    "id": "book-003",
+    "source": "book-verified",
+    "chapter": "Priority rules",
+    "question": "Do you have an obligation to give way to vehicles coming from the right?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vehicles coming from the right are exiting a ‘home zone’. This means that they have\nan obligation to give way to you. The priority-to-the-right rule does not therefore\napply.\nHome zone (E9)\n“A driver also has an obligation to give way to any vehicle when its path crosses\ntheir own path when the driver joins a road [...] from [...] a home zone.” (Road\nTraffic Ordinance)",
+    "images": [
+      "images/book-003_p42-042.jpg",
+      "images/book-003_p43-043.jpg"
+    ]
+  },
+  {
+    "id": "book-004",
+    "source": "book-verified",
+    "chapter": "Crossings",
+    "question": "Are you obliged to give way to road-users who are already on, or are about to enter, the bicycle crossing?",
+    "options": [
+      "Yes, I must give way to cyclists and drivers of class II mopeds.",
+      "Yes, I must give way to cyclists, but I am not obliged to give way to drivers of class II mopeds.",
+      "No, because the bicycle crossing is before the roundabout.",
+      "No, but I must adapt my speed so that I do not endanger cyclists or moped drivers who are on the bicycle crossing."
+    ],
+    "correctIndex": 0,
+    "explanation": "Bicycle crossing (B8)\n“At a bicycle crossing, a driver has an obligation to give way to cyclists and drivers\nof class II mopeds who are on, or are just about to enter, the bicycle crossing.”\n(Road Traffic Ordinance)",
+    "images": [
+      "images/book-004_p54-054.jpg",
+      "images/book-004_p55-055.jpg"
+    ]
+  },
+  {
+    "id": "book-005",
+    "source": "book-verified",
+    "chapter": "Roundabouts",
+    "question": "Do you have an obligation to give way to vehicles coming from A?",
+    "options": [
+      "Yes, to all vehicles.",
+      "Yes, but only to motor vehicles.",
+      "No, because the priority-to-the-right rule applies.",
+      "No, because I am driving on a priority road."
+    ],
+    "correctIndex": 0,
+    "explanation": "Roundabout (D3)\n“A driver who is entering a roundabout is obliged to give way to every vehicle that\nis already driving on the roundabout.” (Road Traffic Ordinance)",
+    "images": [
+      "images/book-005_p64-064.jpg",
+      "images/book-005_p65-065.jpg"
+    ]
+  },
+  {
+    "id": "book-006",
+    "source": "book-verified",
+    "chapter": "Stopping & parking",
+    "question": "You park your car here at 16.54 on a Tuesday. What time must you state on the parking disc?",
+    "options": [
+      "16.00",
+      "16.30",
+      "17.00",
+      "09.00 E) 10.00"
+    ],
+    "correctIndex": 2,
+    "explanation": "“If a parking disc or an equivalent device is used, the stated time shall be set to the\nnearest subsequent half-hour, counted from the time at which the parking was\ncommenced.” (Road Traffic Ordinance)\nIf you commence the parking at 16.54, the nearest subsequent half-hour will be\n17.00.",
+    "images": [
+      "images/book-006_p74-074.jpg",
+      "images/book-006_p75-075.jpg"
+    ]
+  },
+  {
+    "id": "book-007",
+    "source": "book-verified",
+    "chapter": "Country roads",
+    "question": "You are going to A. Which statement is true?",
+    "options": [
+      "I am allowed to turn left at B.",
+      "I am allowed to turn right at C and then cross the road.",
+      "I am not allowed to turn into A at all from this direction. I must instead make a turn further down the road and drive back."
+    ],
+    "correctIndex": 1,
+    "explanation": "This is an example of a jughandle turn.\nDirection sign when junction turn is prohibited (F2)\n“The sign provides preparatory information indicating that it is prohibited to turn\nat a junction, but that another direction can be chosen.” (Road Sign Ordinance)",
+    "images": []
+  },
+  {
+    "id": "book-008",
+    "source": "book-verified",
+    "chapter": "Motorways & clearways",
+    "question": "Could there be intersecting traffic on the same level further ahead on this road?",
+    "options": [
+      "Yes, because the road is not a motorway or a clearway.",
+      "No, from this point onwards, there will not be any junctions on the same level."
+    ],
+    "correctIndex": 0,
+    "explanation": "Only motorways and clearways are guaranteed to be free from intersecting traffic on\nthe same level. (Clearways may have oncoming traffic, but not intersecting traffic.)\n‘On the same level’ here refers to a regular junction where there is a risk of colliding\nwith intersecting traffic. Traffic that crosses the road via a bridge is not on the same\nlevel.\nNeither of these signs are shown:\n Motorway (E1) Clearway (E3)\nThe road you are on is a priority road, and just here there is a central barrier. There\nmay however be junctions on the same level further ahead.",
+    "images": [
+      "images/book-008_p94-094.jpg",
+      "images/book-008_p95-095.jpg"
+    ]
+  },
+  {
+    "id": "book-009",
+    "source": "book-verified",
+    "chapter": "Overtaking",
+    "question": "You intend to continue straight ahead. Is it prohibited to overtake the bus in conjunction with the pedestrian crossing?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 1,
+    "explanation": "At an uncontrolled pedestrian crossing, you are not permitted to overtake:\n“Vehicles or trams may not be overtaken immediately before or on an uncontrolled\npedestrian crossing.” (Road Traffic Ordinance)\nThis pedestrian crossing, however, is controlled:\n“A pedestrian crossing is controlled if the traffic is regulated by traffic signals.”\n(Ordinance on Road Traffic Definitions)\nIn other words, overtaking the bus here is not prohibited.\nEven though an action is not prohibited, it may still be inappropriate. Pedestrians\ncould cross against a red light, and if you deem visibility to be poor, the safest option\nis to wait to perform the overtaking until after the pedestrian crossing.\n(In this example, however, you appear to be receiving help from the bus. When you\nreach the pedestrian crossing, the bus will be blocking any pedestrians from stepping\nonto the crossing from the right-hand side.)",
+    "images": [
+      "images/book-009_p104-104.jpg",
+      "images/book-009_p105-105.jpg"
+    ]
+  },
+  {
+    "id": "book-010",
+    "source": "book-verified",
+    "chapter": "Railway crossings",
+    "question": "What does this road sign mean?",
+    "options": [
+      "Furthest distance to level crossing.",
+      "Shortest distance to level crossing."
+    ],
+    "correctIndex": 0,
+    "explanation": "Distance to level crossing (A38)\n”The signs indicate the distance to a level crossing in a three-bar system. The sign\nwith the three bars is, except for in densely populated areas, erected under one of\nthe following signs: A35, Level crossing with gates; A36, Level crossing without\ngates; or A37, Junction with tramway line. The sign with two bars indicates that it\nis two-thirds the distance to the level crossing and the sign with one bar indicates\nthe last third of the distance.” (Road Sign Ordinance)",
+    "images": [
+      "images/book-010_p112-112.jpg",
+      "images/book-010_p113-113.jpg"
+    ]
+  },
+  {
+    "id": "book-011",
+    "source": "book-verified",
+    "chapter": "Special streets",
+    "question": "Which of these signs indicates a pedestrian street?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 3,
+    "explanation": "A: Built-up area (E5) B: Recommended lower speed (E11)\n C: Home zone (E9) D: Pedestrian street (E7)",
+    "images": [
+      "images/book-011_p120-120.jpg",
+      "images/book-011_p121-121.jpg"
+    ]
+  },
+  {
+    "id": "book-012",
+    "source": "book-verified",
+    "chapter": "Winter",
+    "question": "Is compressed snow (snow that has been worn smooth) good or bad, in terms of grip?",
+    "options": [
+      "Good, as the smooth surface of the snow means that the effectiveness of the tyres’ studs is significantly increased.",
+      "Bad, as compressed snow can be very slippery.",
+      "Good, as loose snow is more slippery than compressed snow."
+    ],
+    "correctIndex": 1,
+    "explanation": "Snow becomes compressed or smooth-worn when it has been subjected to hard\npressure. It is often found at junctions, where many vehicles come to a standstill\nbefore then accelerating.\nCompressed snow has many of the same properties as ice – i.e. poor grip. Compare it\nto the experience of walking in deep snow – it is more difficult, but there is much less\nrisk of slipping and losing your grip.",
+    "images": []
+  },
+  {
+    "id": "book-013",
+    "source": "book-verified",
+    "chapter": "Learning & maturity",
+    "question": "Can probability learning be good?",
+    "options": [
+      "Yes, if it means that I am especially cautious in certain situations.",
+      "No, probability learning is always negative in traffic."
+    ],
+    "correctIndex": 0,
+    "explanation": "Probability learning means that you use prior experience of a situation to assess\nthe probability of something happening.\n Good probability learning: You are used to trains passing frequently at a\n railway crossing and you are therefore extra cautious.\n Bad probability learning: You are used to trains passing very rarely at a\n railway crossing and therefore do not look before you cross.",
+    "images": []
+  },
+  {
+    "id": "book-014",
+    "source": "book-verified",
+    "chapter": "Alcohol",
+    "question": "What is the limit for aggravated drunk driving?",
+    "options": [
+      "0.2 per mille of alcohol in the blood.",
+      "0.8 per mille of alcohol in the blood.",
+      "1.0 per mille of alcohol in the blood.",
+      "2.0 per mille of alcohol in the blood."
+    ],
+    "correctIndex": 2,
+    "explanation": "Aggravated drunk driving: “The driver has a blood alcohol concentration of at least\n1.0 per mille.” (Road Traffic Offences Act)",
+    "images": []
+  },
+  {
+    "id": "book-015",
+    "source": "book-verified",
+    "chapter": "Tiredness",
+    "question": "Could it be prohibited to drive a vehicle when you are tired?",
+    "options": [
+      "Yes, if I am incapable of driving the vehicle in a safe manner.",
+      "No, because tiredness cannot be measured."
+    ],
+    "correctIndex": 0,
+    "explanation": "“A vehicle may not be driven by a person who, due to illness, fatigue, intoxication\nby alcohol, other stimulants or sedatives, or for other reasons is incapable of\ndriving the vehicle in a safe manner.” (Road Traffic Ordinance)\nYou are permitted to be tired as long as you are able to drive the vehicle safely. For\nthis reason, the question is whether it “could” be prohibited, not whether it is always\nprohibited (which is not the case).",
+    "images": []
+  },
+  {
+    "id": "book-016",
+    "source": "book-verified",
+    "chapter": "Vision",
+    "question": "How much of the visual field is made up of central vision?",
+    "options": [
+      "1–2%",
+      "50%",
+      "98–99%"
+    ],
+    "correctIndex": 0,
+    "explanation": "1\n 2 2\n Ö\nSemicircle: Visual field\nÖ: Location of eye\n1: Central vision\n2: Peripheral vision",
+    "images": []
+  },
+  {
+    "id": "book-017",
+    "source": "book-verified",
+    "chapter": "Impairments",
+    "question": "What does this sign combination mean?",
+    "options": [
+      "Accident-ridden pedestrian crossing.",
+      "Pedestrian crossing where people with hearing impairments often cross.",
+      "Pedestrian crossing where people with visual impairments often cross.",
+      "Controlled pedestrian crossing."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pedestrian crossing (B3)\nVisually impaired (T9)\n“The panel indicates that people with visual impairments often use the crossing.\nThis panel always has a yellow background.” (Road Sign Ordinance)",
+    "images": [
+      "images/book-017_p164-164.jpg",
+      "images/book-017_p165-165.jpg"
+    ]
+  },
+  {
+    "id": "book-018",
+    "source": "book-verified",
+    "chapter": "Children",
+    "question": "Is it true that you are obliged to show consideration to certain road users?",
+    "options": [
+      "No, everyone should be treated equally.",
+      "Yes – for example, children, the elderly and people with disabilities."
+    ],
+    "correctIndex": 1,
+    "explanation": "“The road user shall show particular consideration to children, the elderly, crossing\nguards and people with visible disabilities or illnesses that constitute an obstacle\nfor them in traffic.” (Road Traffic Ordinance)",
+    "images": []
+  },
+  {
+    "id": "book-019",
+    "source": "book-verified",
+    "chapter": "Traffic accidents",
+    "question": "What should your first response be if you accidentally damage a road sign so that other road users cannot see it?",
+    "options": [
+      "Contact the police.",
+      "Try to restore the road sign.",
+      "Contact the Swedish Transport Administration.",
+      "Contact the land owner."
+    ],
+    "correctIndex": 1,
+    "explanation": "“A person who has moved or altered a road sign, road marking, traffic signal or\nother traffic device shall immediately restore the device to an adequate condition. If\nthis is impossible, they shall promptly inform the police or the person who installed\nand maintains the device of its condition and take any necessary measures, as\nrequired by the traffic situation.” (Road Traffic Ordinance)\nIt is important that the sign is restored as soon as possible. If it is a give way sign at a\njunction, the consequences could otherwise be dire.",
+    "images": []
+  },
+  {
+    "id": "book-020",
+    "source": "book-verified",
+    "chapter": "Classification of vehicles",
+    "question": "How fast are you allowed to drive in a light lorry?",
+    "options": [
+      "Max. 70 km/h.",
+      "Max. 90 km/h.",
+      "Max. 100 km/h.",
+      "As fast as indicated by the sign."
+    ],
+    "correctIndex": 3,
+    "explanation": "Maximum speed for light lorries: “The speed limit applicable to the road.” (Swedish\nTransport Agency)",
+    "images": []
+  },
+  {
+    "id": "book-021",
+    "source": "book-verified",
+    "chapter": "Distances",
+    "question": "How is the reaction time affected by worn tyres?",
+    "options": [
+      "It decreases.",
+      "It increases by approximately 50%.",
+      "It increases by approximately 100%.",
+      "It is not affected at all."
+    ],
+    "correctIndex": 3,
+    "explanation": "The reaction time depends solely on the human driver and has nothing to do with the\nproperties of the car.",
+    "images": []
+  },
+  {
+    "id": "book-022",
+    "source": "book-verified",
+    "chapter": "Tyres",
+    "question": "When driving in winter conditions, do you have to have studded tyres on the trailer if you have studded tyres on your car?",
+    "options": [
+      "Yes.",
+      "Only if it is a trailer with brakes.",
+      "No."
+    ],
+    "correctIndex": 0,
+    "explanation": "“If the car has studded tyres, a trailer connected to the car must also have studded\ntyres when driving in winter conditions.” (Swedish Transport Agency)\nIf the car has better grip than the trailer, there is a chance that the trailer will keep\ngoing when the car brakes and fold around the car like a folding pocketknife.",
+    "images": []
+  },
+  {
+    "id": "book-023",
+    "source": "book-verified",
+    "chapter": "Steering",
+    "question": "Which type of tyre entails the greatest risk of aquaplaning?",
+    "options": [
+      "Extra-narrow tyres.",
+      "Normal tyres.",
+      "Extra-wide tyres."
+    ],
+    "correctIndex": 2,
+    "explanation": "Red = the amount of water that has to be dispersed for the tyres to have contact\nwith the road.\nWider tyres mean that more water needs to be pushed aside, which leads to a greater\nrisk of aquaplaning.",
+    "images": []
+  },
+  {
+    "id": "book-024",
+    "source": "book-verified",
+    "chapter": "Brakes",
+    "question": "What is likely to be the problem if the brake pedal feels springy when you apply the brake?",
+    "options": [
+      "A leak in the brake system.",
+      "Worn-out brakes.",
+      "Air in the brake system."
+    ],
+    "correctIndex": 2,
+    "explanation": "If there is a leak, the pedal will go down slowly (the brake fluid is pushed out). If the\nbrakes are worn, it will take longer than normal but the pedal will still feel rigid. Air\nin the brake system makes the pedal feel springy, as the air moves around the system\nunpredictably.",
+    "images": []
+  },
+  {
+    "id": "book-025",
+    "source": "book-verified",
+    "chapter": "Crash safety",
+    "question": "Should the airbag on the front passenger seat be activated if a rear-facing child seat is installed there?",
+    "options": [
+      "Yes, always.",
+      "Yes, but only if the child is over 3 years old.",
+      "No, never."
+    ],
+    "correctIndex": 2,
+    "explanation": "If the airbag triggers, this will push the child safety seat against the front seat with\ngreat force. The child will be exposed to a great impact, and there is also a risk that\nthe child may become trapped against the front seat.\nPlease note that the question says activated (that is: on, engaged).",
+    "images": []
+  },
+  {
+    "id": "book-026",
+    "source": "book-verified",
+    "chapter": "Child safety seats",
+    "question": "At what point is it safe for a child to sit like an adult in a seat without an airbag?",
+    "options": [
+      "When the child is at least 135 cm tall.",
+      "When the child is at least 140 cm tall.",
+      "When the child is at least 150 cm tall."
+    ],
+    "correctIndex": 0,
+    "explanation": "“All children under 135 centimetres tall shall be put in a special protection device in\nthe car, i.e. a baby car seat, a child safety seat, a booster seat or booster cushion.”\n(Swedish Transport Agency)\nPlease note that the questions says without an airbag. If it is a seat with an airbag,\nthe correct answer would be 140 cm.",
+    "images": []
+  },
+  {
+    "id": "book-027",
+    "source": "book-verified",
+    "chapter": "Length & width",
+    "question": "260 cm 40 cm Is it permitted to drive the car on a public road?",
+    "options": [
+      "No, as the width is 260 cm.",
+      "No, as the load protrudes 40 cm on one side.",
+      "Yes, as the width does not exceed 260 cm.",
+      "Yes, as the load does not protrude at all on the other side."
+    ],
+    "correctIndex": 1,
+    "explanation": "“If a motor vehicle or a vehicle coupled to this has a load where either side\nprotrudes more than 20 centimetres outside the vehicle, or if the vehicle’s width,\nincluding load, exceeds 260 centimetres, [...] the vehicle or a vehicle coupled to this\nmay only be driven on a private road.” (Road Traffic Ordinance)\nReview of the options:\n No, as the width is 260 cm.\n – Wrong, the width may be exactly 260 cm, but not more.\n No, as the load protrudes 40 cm on one side.\n – Correct, according to the quote from the Road Traffic Ordinance.\n Yes, as the width does not exceed 260 cm.\n – Wrong, as this answer implies that it is permitted to drive the car with this\n load.\n Yes, as the load does not protrude at all on the other side.\n – Wrong, as this answer implies that it is permitted to drive the car with this\n load.",
+    "images": []
+  },
+  {
+    "id": "book-028",
+    "source": "book-verified",
+    "chapter": "Loads",
+    "question": "Is the trailer classed as a light trailer if it is connected to the car?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 0,
+    "explanation": "With a regular category B licence, you are only allowed to tow a light trailer. The\nfollowing count as a light trailer:\n 1. Trailer with a maximum total weight of 750 kg.\n 2. Trailer where the maximum total weight for car + trailer is 3,500 kg\n (3.5 tonnes).\nDoes the combined total weight exceed 3.5 tonnes?\n2,100 kg + 1,100 kg = 3,200 kg = Under 3.5 tonnes",
+    "images": [
+      "images/book-028_p258-258.jpg",
+      "images/book-028_p259-259.jpg"
+    ]
+  },
+  {
+    "id": "book-029",
+    "source": "book-verified",
+    "chapter": "Lights",
+    "question": "Do you have to turn off your full beam headlights when approaching a train travelling in the opposite direction?",
+    "options": [
+      "Yes, if there is a risk of dazzling the driver.",
+      "No, as the full beams of a car do not affect the driver of a train."
+    ],
+    "correctIndex": 0,
+    "explanation": "“Full beam headlights may not be used [...] when meeting an oncoming track-\nbound transport [...] if there is a possible risk of dazzling the driver.” (Road Traffic\nOrdinance)\nThe train driver must be able to see the tracks. There could be an elk on the line\nfurther ahead, for example. The driver of the train must then have good visibility in\norder to activate the emergency brake.",
+    "images": []
+  },
+  {
+    "id": "book-030",
+    "source": "book-verified",
+    "chapter": "Safety checks",
+    "question": "What is the smallest permitted tread depth on winter tyres in winter conditions?",
+    "options": [
+      "1.0 mm",
+      "1.6 mm",
+      "3.0 mm",
+      "3.2 mm"
+    ],
+    "correctIndex": 2,
+    "explanation": "“In winter road conditions during the period 1 December–31 March, the tread\ndepth must be at least 3 mm.” (Swedish Transport Agency)",
+    "images": []
+  },
+  {
+    "id": "book-031",
+    "source": "book-verified",
+    "chapter": "Roadworthiness tests",
+    "question": "How often do you have to inspect a car that is more than 5 years old?",
+    "options": [
+      "No later than 6 months after the previous inspection.",
+      "No later than 12 months after the previous inspection.",
+      "No later than 14 months after the previous inspection.",
+      "No later than 24 months after the previous inspection."
+    ],
+    "correctIndex": 2,
+    "explanation": "A new car must be inspected for the first time no later than 3 years\n (36 months) after the month when it was first taken into service.\n The second inspection must be conducted no later than 2 years (24 months)\n after the month in which the first inspection was conducted.\n Subsequent inspections must be conducted no later than 14 months after the\n month in which the most recent inspection was conducted.",
+    "images": []
+  },
+  {
+    "id": "book-032",
+    "source": "book-verified",
+    "chapter": "Services",
+    "question": "What does it mean if this symbol lights up on the dashboard?",
+    "options": [
+      "Incorrect oil pressure.",
+      "The windscreen washer fluid is running low.",
+      "The fuel tank is almost empty."
+    ],
+    "correctIndex": 0,
+    "explanation": "The car’s user manual will tell you what the lights mean. The standard symbol for\nincorrect oil pressure is an oil can (slight variations in design may occur).",
+    "images": []
+  },
+  {
+    "id": "book-033",
+    "source": "book-verified",
+    "chapter": "Registration certificates",
+    "question": "Which statement applies to a vehicle’s off-road status?",
+    "options": [
+      "A vehicle automatically has off-road status if it has not been used for a period of 5 years.",
+      "A vehicle automatically has off-road status if the vehicle tax has not been paid.",
+      "A vehicle automatically has off-road status if it is the subject of a driving ban.",
+      "A vehicle is never automatically given off-road status."
+    ],
+    "correctIndex": 3,
+    "explanation": "“It is a common misconception that a vehicle is automatically given off-road status\nif it is subject to a driving ban after missing a roadworthiness test, for example.\nThat is not the case! A vehicle is never automatically given off-road status – you\nare responsible for submitting an off-road notification to us.” (Swedish Transport\nAgency)",
+    "images": []
+  },
+  {
+    "id": "book-034",
+    "source": "book-verified",
+    "chapter": "Insurance",
+    "question": "What type of damage is not covered by third-party insurance?",
+    "options": [
+      "Damage to your own vehicle.",
+      "Damage to someone else’s vehicle.",
+      "Personal injury."
+    ],
+    "correctIndex": 0,
+    "explanation": "“Third-party insurance [...] Note that you are not compensated for [...] damage to\nyour own vehicle”. (Swedish Transport Agency)",
+    "images": []
+  },
+  {
+    "id": "book-035",
+    "source": "book-verified",
+    "chapter": "Environment",
+    "question": "Why should you remove a roof box when not using it?",
+    "options": [
+      "It constitutes a traffic hazard, as it may fall down.",
+      "It increases air resistance and thereby fuel consumption.",
+      "The plastic of the roof box emits harmful particles to the air."
+    ],
+    "correctIndex": 1,
+    "explanation": "“Roof boxes and rails create unnecessary air resistance and slow the car down. A\nroof box can increase fuel consumption by more than 1 decilitre for every 10\nkilometres travelled.” (Swedish Transport Administration)",
+    "images": [
+      "images/book-035_p308-308.jpg",
+      "images/book-035_p309-309.jpg"
+    ]
+  },
+  {
+    "id": "book-036",
+    "source": "book-verified",
+    "chapter": "Eco-driving",
+    "question": "Which statement is true regarding engine braking?",
+    "options": [
+      "It reduces your fuel consumption.",
+      "It increases your fuel consumption."
+    ],
+    "correctIndex": 0,
+    "explanation": "“The point of engine braking is that you can completely turn off the fuel feed while\nreducing your speed. Braking less using your foot saves fuel [...] If you let up on the\naccelerator completely when the engine is running at above 1,500–1,600 rpm, there\nwill be no fuel at all delivered to the engine. Once you are down to 1,200–1,300\nrpm, the engine starts taking in fuel again. You should therefore shift down before\nreaching 1,200–1,300 rpm in order to keep the consumption to zero.” (Swedish\nTransport Administration)",
+    "images": []
+  },
+  {
+    "id": "book-037",
+    "source": "book-verified",
+    "chapter": "Fuels",
+    "question": "Which alternative best describes a hybrid car?",
+    "options": [
+      "A car that runs on electricity alone.",
+      "A car that runs on electricity and petrol.",
+      "A car that uses less than 0.3 litres per ten kilometres travelled.",
+      "A car that runs solely on solar energy through the use of solar cells."
+    ],
+    "correctIndex": 1,
+    "explanation": "The most common combination is electric + petrol.\n 322\n Theory Book\nRoad signs\n 323\nRoad signs\nWarning signs (A)\n Dangerous curve Multiple dangerous Steep hill downwards\n (A1) curves ahead (A3)\n (A2)\n Steep incline Road narrows Opening or swing\n (A4) (A5) bridge\n (A6)\n Quayside or river Uneven road ahead Speed bump warning\n bank (A8) (A9)\n (A7)\n Slippery road Loose chippings Falling rocks or debris\n (A10) (A11) ahead\n (A12)\n 324\n Theory Book\nPedestrian crossing Pedestrian warning Children\n ahead (A14) (A15)\n (A13)\nCyclists and moped Skiers Horse riders\n riders (A17) (A18)\n (A16)\n Animals Roadworks Roadworks ends\n (A19) (A20) (A21)\n Traffic signals Low-flying aircraft Beware of dangerous\n (A22) (A23) crosswinds\n (A24)\n 325\n Beware of two-way Tunnel Soft verge or high\n traffic ahead (A26) carriageway edge\n (A25) (A27)\n Junction Warning for a Roundabout ahead\n (A28) junction where road (A30)\n users on a connecting\n road are obliged to\n give way or stop\n (A29)\nSlow-moving vehicles Horse-drawn vehicles Off-road scooter\n (A31) (A32) traffic\n (A33)\n Queues likely Level crossing with Level crossing without\n (A34) gates gates\n (A35) (A36)\n 326\n Theory Book\nJunction with Distance to level Train crossing\ntramway line crossing (A39)\n (A37) (A38)\nOther dangers Accident\n (A40) (A41)\n 327\nPriority signs (B)\n Give way Obligation to stop Pedestrian crossing\n (B1) (B2) (B3)\n Priority road Priority road ends Priority for oncoming\n (B4) (B5) vehicles\n (B6)\n Priority over Bicycle crossing\n oncomi",
+    "images": []
+  },
+  {
+    "id": "book-038",
+    "source": "book-verified",
+    "chapter": "Road signs",
+    "question": "Which signs indicate the direction to be followed?",
+    "options": [
+      "A and C only.",
+      "B and D only.",
+      "All of them.",
+      "None of them."
+    ],
+    "correctIndex": 2,
+    "explanation": "Mnemonic rule:\n Diagonal (twisted/slanting) arrows = pass on this side (the arrow indicates the\n correct lane).\n Horizontal/Vertical (straight) arrows = direction to be followed (the arrow\n indicates a direction).",
+    "images": []
+  },
+  {
+    "id": "ai-001",
+    "source": "ai-generated",
+    "chapter": "Introduction",
+    "question": "Several traffic instructions can apply to the same situation at once. What is the correct order of precedence, from highest to lowest?",
+    "options": [
+      "Road signs, rules, traffic signals, police signals",
+      "Police signals, traffic signals, road signs, rules",
+      "Traffic signals, police signals, rules, road signs",
+      "Rules, road signs, traffic signals, police signals"
+    ],
+    "correctIndex": 1,
+    "explanation": "The book lists the precedence as: 1. Police signals, 2. Traffic signals, 3. Road signs, 4. Rules (e.g. the priority-to-the-right rule). Police signals always override everything else.",
+    "images": []
+  },
+  {
+    "id": "ai-002",
+    "source": "ai-generated",
+    "chapter": "Introduction",
+    "question": "If there are no speed limit signs, what are the basic default speed limits in Sweden?",
+    "options": [
+      "30 km/h built-up area, 50 km/h outside",
+      "50 km/h built-up area, 70 km/h outside",
+      "50 km/h built-up area, 90 km/h outside",
+      "70 km/h built-up area, 110 km/h outside"
+    ],
+    "correctIndex": 1,
+    "explanation": "The book states the basic speed limits used when there are no signs: 50 km/h in a built-up area and 70 km/h outside of a built-up area.",
+    "images": []
+  },
+  {
+    "id": "ai-003",
+    "source": "ai-generated",
+    "chapter": "Lanes",
+    "question": "On a road with no lane markings, how is a 'lane' legally defined?",
+    "options": [
+      "Any strip of road at least 2 metres wide",
+      "A longitudinal field wide enough for one file of four-wheeled vehicles, with reasonable safety margins",
+      "Exactly half the width of the carriageway",
+      "Whatever width the driver personally judges to be safe"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Ordinance on Road Traffic Definitions defines a lane as wide enough for traffic in one file of four-wheeled vehicles, interpreted as requiring reasonable safety margins between vehicles, not vehicles packed closely together.",
+    "images": []
+  },
+  {
+    "id": "ai-004",
+    "source": "ai-generated",
+    "chapter": "Lanes",
+    "question": "When is a driver prohibited from crossing into an adjacent lane due to lane markings?",
+    "options": [
+      "When the line on their own side is solid",
+      "When the line on the other lane's side is solid",
+      "Whenever there is any centre line at all",
+      "Only on motorways"
+    ],
+    "correctIndex": 0,
+    "explanation": "You are not permitted to pass over into another lane if the line on your side is solid. A driver on the side where the line is not solid may cross over, for example to overtake.",
+    "images": []
+  },
+  {
+    "id": "ai-005",
+    "source": "ai-generated",
+    "chapter": "Priority rules",
+    "question": "Which of the following is an explicit exception where the priority-to-the-right rule does NOT apply?",
+    "options": [
+      "Entering a roundabout",
+      "Two cars merging in an open area with no signs",
+      "A junction where the Junction (A28) sign is displayed",
+      "A standard unsigned crossroads in a housing estate"
+    ],
+    "correctIndex": 0,
+    "explanation": "The book lists exceptions where the priority-to-the-right rule does not apply: priority roads, functioning traffic signals, roundabouts, give way/obligation to stop signs, leaving an acceleration lane, reversing, and exits.",
+    "images": []
+  },
+  {
+    "id": "ai-006",
+    "source": "ai-generated",
+    "chapter": "Priority rules",
+    "question": "You are turning right on a green light. Pedestrians are crossing the road you are turning into, even though there is no marked pedestrian crossing there. Must you give way?",
+    "options": [
+      "No, only marked crossings require giving way",
+      "Yes, the turning rule requires you not to obstruct pedestrians crossing the carriageway you are joining, marked or not",
+      "Only if the pedestrians are already halfway across",
+      "No, because you have a green light"
+    ],
+    "correctIndex": 1,
+    "explanation": "The turning rule states you may not obstruct pedestrians or cyclists crossing the carriageway you are turning into, even without a marked pedestrian crossing, footpath, or bicycle path.",
+    "images": []
+  },
+  {
+    "id": "ai-007",
+    "source": "ai-generated",
+    "chapter": "Priority rules",
+    "question": "Under the exit rule, from which of the following must a driver give way when leaving?",
+    "options": [
+      "A car park",
+      "A priority road onto a minor road",
+      "A roundabout",
+      "A motorway acceleration lane with no oncoming traffic"
+    ],
+    "correctIndex": 0,
+    "explanation": "The exit rule gives an obligation to give way when exiting a car park, a property, a pedestrian street, home zone, bicycle street, hard shoulder, off-road area, or a footpath/bicycle path you have crossed.",
+    "images": []
+  },
+  {
+    "id": "ai-008",
+    "source": "ai-generated",
+    "chapter": "Crossings",
+    "question": "At an uncontrolled bicycle crossing (sign B8), what is a driver's obligation toward cyclists who are on it or about to enter it?",
+    "options": [
+      "No obligation; cyclists must give way to cars",
+      "An obligation to give way",
+      "Only need to slow down slightly, no obligation to stop or give way",
+      "The obligation only applies to moped drivers, not cyclists"
+    ],
+    "correctIndex": 1,
+    "explanation": "At a bicycle crossing, a driver has an obligation to give way to cyclists and drivers of class II mopeds who are on, or about to enter, the bicycle crossing (Road Traffic Ordinance).",
+    "images": []
+  },
+  {
+    "id": "ai-009",
+    "source": "ai-generated",
+    "chapter": "Crossings",
+    "question": "What distinguishes a controlled pedestrian crossing from an uncontrolled one?",
+    "options": [
+      "Whether it has road markings",
+      "Whether it has functioning traffic signals or a police officer directing traffic",
+      "Whether it is located in a built-up area",
+      "Whether cyclists are also present"
+    ],
+    "correctIndex": 1,
+    "explanation": "A pedestrian crossing is controlled if traffic is regulated by functioning traffic signals (or a police officer); otherwise it is uncontrolled and drivers must give way to pedestrians stepping out or about to do so.",
+    "images": []
+  },
+  {
+    "id": "ai-010",
+    "source": "ai-generated",
+    "chapter": "Roundabouts",
+    "question": "What must a driver do when exiting a roundabout?",
+    "options": [
+      "Nothing, no signalling is needed",
+      "Indicate right to signal the exit",
+      "Indicate left to warn others they are leaving",
+      "Come to a complete stop before exiting"
+    ],
+    "correctIndex": 1,
+    "explanation": "You must indicate your intention to exit (i.e. to the right) when exiting the roundabout, per the book's driving-on-a-roundabout rules.",
+    "images": []
+  },
+  {
+    "id": "ai-011",
+    "source": "ai-generated",
+    "chapter": "Roundabouts",
+    "question": "Who has priority when a vehicle wants to enter a roundabout?",
+    "options": [
+      "The vehicle entering, over vehicles already on the roundabout",
+      "Vehicles already driving on the roundabout, over vehicles entering",
+      "Whoever arrives first, regardless of position",
+      "It follows the priority-to-the-right rule as normal"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"A driver who is entering a roundabout is obliged to give way to every vehicle that is already driving on the roundabout.\" (Road Traffic Ordinance)",
+    "images": []
+  },
+  {
+    "id": "ai-012",
+    "source": "ai-generated",
+    "chapter": "Stopping & parking",
+    "question": "How close to a junction is stopping or parking generally prohibited?",
+    "options": [
+      "5 metres",
+      "10 metres",
+      "15 metres",
+      "20 metres"
+    ],
+    "correctIndex": 1,
+    "explanation": "The book lists stopping/parking as prohibited at a junction and within 10 metres of it, among other locations.",
+    "images": []
+  },
+  {
+    "id": "ai-013",
+    "source": "ai-generated",
+    "chapter": "Stopping & parking",
+    "question": "You begin parking using a parking disc at 09:47. What time should you set on the disc?",
+    "options": [
+      "09:47",
+      "09:30",
+      "10:00",
+      "10:30"
+    ],
+    "correctIndex": 2,
+    "explanation": "The stated time on a parking disc must be set to the nearest subsequent half-hour from when parking commenced. Starting at 09:47, the nearest subsequent half-hour is 10:00.",
+    "images": []
+  },
+  {
+    "id": "ai-014",
+    "source": "ai-generated",
+    "chapter": "Country roads",
+    "question": "According to the 'verge post' rule of thumb, what is a good following distance to maintain from the car in front on a country road?",
+    "options": [
+      "25 metres",
+      "50 metres",
+      "100 metres",
+      "150 metres"
+    ],
+    "correctIndex": 2,
+    "explanation": "Verge posts on country roads are spaced 50 metres apart, and a good following distance is about 100 metres, corresponding to the distance between 3 verge posts.",
+    "images": []
+  },
+  {
+    "id": "ai-015",
+    "source": "ai-generated",
+    "chapter": "Country roads",
+    "question": "When meeting oncoming traffic on a narrow country road at a passing place, who must stop?",
+    "options": [
+      "Always the car on the right",
+      "The first car to arrive at the passing place",
+      "The car travelling downhill",
+      "Whichever car is larger"
+    ],
+    "correctIndex": 1,
+    "explanation": "The first car to arrive at the passing place shall stop, irrespective of which side the passing place is on.",
+    "images": []
+  },
+  {
+    "id": "ai-016",
+    "source": "ai-generated",
+    "chapter": "Motorways & clearways",
+    "question": "What is the maximum speed for a heavy lorry on a motorway or clearway?",
+    "options": [
+      "70 km/h",
+      "80 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "Heavy lorries may drive at a maximum of 90 km/h on motorways and clearways, and a maximum of 80 km/h on other roads.",
+    "images": []
+  },
+  {
+    "id": "ai-017",
+    "source": "ai-generated",
+    "chapter": "Motorways & clearways",
+    "question": "Which of the following is true of clearways compared with motorways?",
+    "options": [
+      "Clearways may have oncoming traffic but no intersecting traffic on the same level",
+      "Clearways allow intersecting traffic at junctions",
+      "Clearways offer no stopping/parking prohibitions unlike motorways",
+      "Clearways have a lower risk of accidents than motorways"
+    ],
+    "correctIndex": 0,
+    "explanation": "A clearway is a mix of motorway and country road: no intersecting traffic, but oncoming traffic may occur (rarely, usually with cable barriers). Accidents actually occur more frequently than on motorways.",
+    "images": []
+  },
+  {
+    "id": "ai-018",
+    "source": "ai-generated",
+    "chapter": "Overtaking",
+    "question": "You are being overtaken by another vehicle. What are you required to do?",
+    "options": [
+      "Speed up slightly to reduce the time spent side-by-side",
+      "Maintain your speed or slow down, and assist the overtaking car even if its manoeuvre was risky",
+      "Move fully onto the hard shoulder no matter what is there",
+      "Flash your headlights to warn oncoming traffic"
+    ],
+    "correctIndex": 1,
+    "explanation": "When being overtaken you must not accelerate, and you are obliged to assist the overtaking car, even if the manoeuvre is prohibited or dangerous.",
+    "images": []
+  },
+  {
+    "id": "ai-019",
+    "source": "ai-generated",
+    "chapter": "Railway crossings",
+    "question": "Your manual transmission car stalls on a level crossing and will not restart. What should you try first?",
+    "options": [
+      "Wait for the barriers to lower fully, then push the car",
+      "Release the clutch, turn the key fully in the ignition and hold it so the starter motor pushes the car forward",
+      "Call 112 immediately without attempting to move the car",
+      "Reverse off the tracks at high speed"
+    ],
+    "correctIndex": 1,
+    "explanation": "For a manual transmission car that won't start, release the clutch and hold the key turned as far as possible so the starter motor pushes the car forwards; calling 112 is the fallback if the car cannot be moved.",
+    "images": []
+  },
+  {
+    "id": "ai-020",
+    "source": "ai-generated",
+    "chapter": "Railway crossings",
+    "question": "Is overtaking permitted at a level crossing that has traffic signals (red, amber, green) but no barriers?",
+    "options": [
+      "No, overtaking is never allowed near a level crossing",
+      "Yes, all vehicles may be overtaken",
+      "Only two-wheeled vehicles may be overtaken",
+      "Only if the signal is flashing amber"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per the overtaking table, when there are no barriers but there are red/amber/green signals, all vehicles may be overtaken at the level crossing.",
+    "images": []
+  },
+  {
+    "id": "ai-021",
+    "source": "ai-generated",
+    "chapter": "Special streets",
+    "question": "What is the maximum speed a driver may travel at in a home zone (sign E9)?",
+    "options": [
+      "20 km/h",
+      "Walking speed (around 7 km/h)",
+      "30 km/h",
+      "50 km/h"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a home zone you may drive no faster than walking speed, around 7 km/h, and must give way to pedestrians.",
+    "images": []
+  },
+  {
+    "id": "ai-022",
+    "source": "ai-generated",
+    "chapter": "Winter",
+    "question": "Which condition does the book describe as the most treacherous, and why?",
+    "options": [
+      "Heavy snow and ice, because it's hard to see the road surface",
+      "Patches of hidden ice, because the danger isn't obvious to the driver",
+      "Rain, because visibility is reduced",
+      "Fog, because of reduced sight distance"
+    ],
+    "correctIndex": 1,
+    "explanation": "A lot of snow and ice is not treacherous, as the danger is evident. Patches of ice are treacherous, as the danger is hidden from the driver.",
+    "images": []
+  },
+  {
+    "id": "ai-023",
+    "source": "ai-generated",
+    "chapter": "Learning & maturity",
+    "question": "What is 'overlearning' in the context of driving?",
+    "options": [
+      "Learning too many rules to the point of confusion",
+      "Practising a skill until it becomes second nature, freeing attention for the surrounding environment",
+      "Studying beyond what is required for the theory test",
+      "Repeating the same mistake multiple times"
+    ],
+    "correctIndex": 1,
+    "explanation": "Overlearning has taken place when something (like clutch work or gear shifting) has become second nature, so the driver can focus on everything happening around them.",
+    "images": []
+  },
+  {
+    "id": "ai-024",
+    "source": "ai-generated",
+    "chapter": "Alcohol",
+    "question": "What blood alcohol concentration defines ordinary (non-aggravated) drunk driving?",
+    "options": [
+      "0.1 per mille",
+      "0.2 per mille",
+      "0.5 per mille",
+      "1.0 per mille"
+    ],
+    "correctIndex": 1,
+    "explanation": "Drunk driving is defined at 0.2 per mille (0.1 mg of alcohol per litre of breath); aggravated drunk driving starts at 1.0 per mille.",
+    "images": []
+  },
+  {
+    "id": "ai-025",
+    "source": "ai-generated",
+    "chapter": "Alcohol",
+    "question": "Which of the following is true regarding a hands-free mobile phone device while driving?",
+    "options": [
+      "It removes all risk since your hands are free",
+      "Using a mobile phone is illegal regardless of hands-free use",
+      "The conversation itself can still be distracting even though your hands are free",
+      "Hands-free devices are only legal for GPS navigation"
+    ],
+    "correctIndex": 2,
+    "explanation": "A hands-free device frees both hands, but the conversation itself is distracting; a complicated phone call can make you lose focus even with both hands on the wheel.",
+    "images": []
+  },
+  {
+    "id": "ai-026",
+    "source": "ai-generated",
+    "chapter": "Tiredness",
+    "question": "According to the book's statistics, during which time period do most tiredness-related accidents occur?",
+    "options": [
+      "08:00-11:00",
+      "12:00-15:00",
+      "02:00-05:00",
+      "18:00-21:00"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most tiredness-related accidents occur between 02:00 and 05:00, according to the book's statistics on tiredness.",
+    "images": []
+  },
+  {
+    "id": "ai-027",
+    "source": "ai-generated",
+    "chapter": "Vision",
+    "question": "What percentage of your visual field is made up of peripheral vision?",
+    "options": [
+      "1-2%",
+      "50%",
+      "75%",
+      "98-99%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Central vision makes up only 1-2% of the visual field; the remaining 98-99% is peripheral vision, which is impaired by alcohol and tiredness.",
+    "images": []
+  },
+  {
+    "id": "ai-028",
+    "source": "ai-generated",
+    "chapter": "Impairments",
+    "question": "When you stop for a visually impaired pedestrian at a crossing, what should you avoid doing?",
+    "options": [
+      "Stopping in good time before the crossing",
+      "Revving your engine or honking your horn unnecessarily",
+      "Waiting until they have fully crossed before moving off",
+      "Staying quiet while they cross"
+    ],
+    "correctIndex": 1,
+    "explanation": "You should be careful not to make noise: do not rev your engine, and only honk if there is an emergency, since a visually impaired person relies on sound cues.",
+    "images": []
+  },
+  {
+    "id": "ai-029",
+    "source": "ai-generated",
+    "chapter": "Children",
+    "question": "Why can a child be harder to spot near traffic than an adult, according to the book?",
+    "options": [
+      "Children always wear dark clothing",
+      "Children are small enough to be completely hidden behind a parked car, unlike adults",
+      "Children never look both ways before crossing",
+      "Children are legally required to stay off roads"
+    ],
+    "correctIndex": 1,
+    "explanation": "In most cases an adult can be spotted behind a parked car, but a child can be completely hidden by the car, giving no warning before they step into the street.",
+    "images": []
+  },
+  {
+    "id": "ai-030",
+    "source": "ai-generated",
+    "chapter": "Traffic accidents",
+    "question": "According to the book's accident statistics, roughly what percentage of traffic deaths involved a person not wearing a seatbelt?",
+    "options": [
+      "10%",
+      "25%",
+      "40%",
+      "60%"
+    ],
+    "correctIndex": 2,
+    "explanation": "The book states that 40% of all those killed in traffic were not wearing a seat belt.",
+    "images": []
+  },
+  {
+    "id": "ai-031",
+    "source": "ai-generated",
+    "chapter": "Classification of vehicles",
+    "question": "Which of these vehicle categories is subject to 'the speed limit of the road' rather than a separate fixed maximum speed?",
+    "options": [
+      "Heavy lorry on other roads (capped at 80 km/h)",
+      "Moped class I (capped at 45 km/h)",
+      "Private car and light lorry",
+      "A motor vehicle towing an unbraked trailer exceeding half the pulling vehicle's weight"
+    ],
+    "correctIndex": 2,
+    "explanation": "According to the book's speed table, private cars, light lorries, motorcycles and light buses are simply subject to whatever speed limit applies to the road, unlike categories with their own fixed caps.",
+    "images": []
+  },
+  {
+    "id": "ai-032",
+    "source": "ai-generated",
+    "chapter": "Distances",
+    "question": "If you double your speed (with reaction time unchanged), how does your reaction distance change?",
+    "options": [
+      "It doubles",
+      "It quadruples",
+      "It stays the same",
+      "It increases by 50%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reaction distance increases proportionally with speed: 2x higher speed means 2x longer reaction distance.",
+    "images": []
+  },
+  {
+    "id": "ai-033",
+    "source": "ai-generated",
+    "chapter": "Distances",
+    "question": "If you triple your speed, how does your braking distance change (assuming the same road and tyre conditions)?",
+    "options": [
+      "It triples",
+      "It increases sixfold",
+      "It increases ninefold",
+      "It stays the same"
+    ],
+    "correctIndex": 2,
+    "explanation": "Braking distance increases quadratically with speed (raised to the power of 2): 3x higher speed means 9x longer braking distance.",
+    "images": []
+  },
+  {
+    "id": "ai-034",
+    "source": "ai-generated",
+    "chapter": "Tyres",
+    "question": "What is the legal period during which winter tyres are mandatory in winter road conditions?",
+    "options": [
+      "1 November - 31 March",
+      "1 December - 31 March",
+      "1 October - 30 April",
+      "1 December - 28 February"
+    ],
+    "correctIndex": 1,
+    "explanation": "The legal requirement for winter tyres in winter road conditions runs from 1 December to 31 March.",
+    "images": []
+  },
+  {
+    "id": "ai-035",
+    "source": "ai-generated",
+    "chapter": "Tyres",
+    "question": "If your car has studded tyres, what is required of a trailer being towed behind it in winter conditions?",
+    "options": [
+      "The trailer must also have studded tyres",
+      "The trailer must use friction tyres instead",
+      "There is no requirement; only the car's tyres matter",
+      "The trailer must use summer tyres to balance ball pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "If the car has studded tyres, a trailer connected to it must also have studded tyres in winter conditions, to avoid the risk of the trailer jack-knifing due to a grip mismatch.",
+    "images": []
+  },
+  {
+    "id": "ai-036",
+    "source": "ai-generated",
+    "chapter": "Steering",
+    "question": "What does electronic stability control (ESC) do?",
+    "options": [
+      "Increases fuel efficiency automatically",
+      "Detects wheel spin or excessive turning and applies corrective braking to individual wheels",
+      "Automatically inflates the tyres to the correct pressure",
+      "Prevents the car from exceeding the posted speed limit"
+    ],
+    "correctIndex": 1,
+    "explanation": "ESC uses sensors to detect if a wheel is spinning or the car is turning too sharply, then calculates corrective measures such as braking a specific wheel.",
+    "images": []
+  },
+  {
+    "id": "ai-037",
+    "source": "ai-generated",
+    "chapter": "Brakes",
+    "question": "What does it most likely mean if the brake pedal keeps sinking slowly even after reaching the bottom?",
+    "options": [
+      "Air in the brake system",
+      "A leak in the brake system",
+      "Normally worn brake pads only",
+      "A fully functioning brake servo"
+    ],
+    "correctIndex": 1,
+    "explanation": "If the pedal continues to sink slowly despite reaching the bottom, this indicates a probable leak in the brake system, which poses a serious traffic hazard.",
+    "images": []
+  },
+  {
+    "id": "ai-038",
+    "source": "ai-generated",
+    "chapter": "Crash safety",
+    "question": "From roughly what speed can a frontal airbag be triggered?",
+    "options": [
+      "5-10 km/h",
+      "20-30 km/h",
+      "50-60 km/h",
+      "80-100 km/h"
+    ],
+    "correctIndex": 1,
+    "explanation": "Airbags are triggered at speeds over 20-30 km/h, and take just 0.1 seconds to fill up.",
+    "images": []
+  },
+  {
+    "id": "ai-039",
+    "source": "ai-generated",
+    "chapter": "Child safety seats",
+    "question": "Until when should a baby car seat (for a child aged roughly 0-9 months) typically be used?",
+    "options": [
+      "Until the child can sit steadily on their own",
+      "Until the child is exactly 1 year old, regardless of development",
+      "Until the child reaches 135 cm in height",
+      "Until the child can talk"
+    ],
+    "correctIndex": 0,
+    "explanation": "A baby car seat is for children aged 0-9 months old, or until the child is able to sit steadily.",
+    "images": []
+  },
+  {
+    "id": "ai-040",
+    "source": "ai-generated",
+    "chapter": "Length & width",
+    "question": "What is the maximum total width, including any protruding load, permitted for a vehicle on a normal public road?",
+    "options": [
+      "200 cm",
+      "230 cm",
+      "260 cm",
+      "300 cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "The total width, including load, may be a maximum of 260 cm (2.6 m) for driving on normal roads; wider vehicles may only use private roads.",
+    "images": []
+  },
+  {
+    "id": "ai-041",
+    "source": "ai-generated",
+    "chapter": "Loads",
+    "question": "A car with a total weight of 3,200 kg tows a trailer whose own total weight is 700 kg. Is this trailer classed as 'light' under a regular category B licence?",
+    "options": [
+      "Yes, because the trailer's own total weight is under 750 kg",
+      "No, because the combined weight exceeds 3,500 kg",
+      "No, because trailer brakes are required above 500 kg",
+      "Yes, but only with the extended B96 licence"
+    ],
+    "correctIndex": 0,
+    "explanation": "A trailer with a maximum total weight of 750 kg or less is always classed as light, regardless of the combined weight with the car - point 2 (the 3,500 kg combined limit) only applies if point 1 is not met.",
+    "images": []
+  },
+  {
+    "id": "ai-042",
+    "source": "ai-generated",
+    "chapter": "Loads",
+    "question": "What is the minimum load-securing requirement fastenings must withstand in the forward direction, as a percentage of cargo weight?",
+    "options": [
+      "50%",
+      "65%",
+      "80%",
+      "100%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fastenings must withstand a movement of at least 80% of the cargo weight in the forward direction, and 50% backwards and to the sides.",
+    "images": []
+  },
+  {
+    "id": "ai-043",
+    "source": "ai-generated",
+    "chapter": "Lights",
+    "question": "Which combination of lights is prohibited under the rules described in the book?",
+    "options": [
+      "Dipped headlights + parking lights",
+      "Dipped headlights + fog lights",
+      "Full beam headlights alone at night on an unlit road",
+      "Rear fog light alone in heavy rain"
+    ],
+    "correctIndex": 1,
+    "explanation": "The book explicitly lists dipped headlights + fog lights as a prohibited combination, along with dipped headlights + daytime running lights and dipped headlights + auxiliary high beam lights.",
+    "images": []
+  },
+  {
+    "id": "ai-044",
+    "source": "ai-generated",
+    "chapter": "Safety checks",
+    "question": "During an internal safety check, what should happen to the brake pedal when you turn the steering wheel slightly and start the car, to test the power steering?",
+    "options": [
+      "It should remain completely rigid and not move at all",
+      "It should sink slightly and the steering wheel should become easier to turn",
+      "It should vibrate rapidly",
+      "It should rise upward on its own"
+    ],
+    "correctIndex": 1,
+    "explanation": "When starting the car with the brake pedal depressed and turning the wheel slightly, the pedal sinking and the wheel becoming easier to turn confirms the power steering and servo are functioning.",
+    "images": []
+  },
+  {
+    "id": "ai-045",
+    "source": "ai-generated",
+    "chapter": "Roadworthiness tests",
+    "question": "A car's second roadworthiness inspection was completed in June 2024. By when must the next (third) inspection be completed?",
+    "options": [
+      "No later than June 2025",
+      "No later than August 2025",
+      "No later than December 2025",
+      "No later than June 2026"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subsequent inspections after the second must be conducted no later than 14 months after the month of the most recent inspection, and the deadline is always the last day of that month - June 2024 plus 14 months lands on 31 August 2025.",
+    "images": []
+  },
+  {
+    "id": "ai-046",
+    "source": "ai-generated",
+    "chapter": "Services",
+    "question": "Your engine has been running and the coolant level is too low. What should you do?",
+    "options": [
+      "Open the radiator cap immediately to top up coolant",
+      "Avoid opening the radiator while the engine is warm, as hot steam may burn you",
+      "Pour cold water directly onto the hot engine block",
+      "Ignore it, since coolant does not need topping up"
+    ],
+    "correctIndex": 1,
+    "explanation": "You should not open the radiator when the engine is warm, as it may release very hot steam and cause burns; the radiator must instead be replenished with coolant (water and glycol) once safe to do so.",
+    "images": []
+  },
+  {
+    "id": "ai-047",
+    "source": "ai-generated",
+    "chapter": "Registration certificates",
+    "question": "What is Part 2 of the vehicle registration certificate primarily used for?",
+    "options": [
+      "Ordering registration plates",
+      "Change of ownership and deregistration",
+      "Notifying on-road status only",
+      "Storing insurance policy details"
+    ],
+    "correctIndex": 1,
+    "explanation": "Part 2 of the registration certificate contains ownership information and is used for change of ownership and deregistration, so it should be stored safely rather than left in the glove compartment.",
+    "images": []
+  },
+  {
+    "id": "ai-048",
+    "source": "ai-generated",
+    "chapter": "Insurance",
+    "question": "Which level of car insurance covers damage to your OWN car after an accident you caused?",
+    "options": [
+      "Third-party insurance",
+      "Partial insurance",
+      "Fully comprehensive insurance",
+      "None of these levels ever cover this"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fully comprehensive insurance (motor vehicle damage insurance) covers damage to your own car in a traffic accident, on top of everything covered by third-party and partial insurance.",
+    "images": []
+  },
+  {
+    "id": "ai-049",
+    "source": "ai-generated",
+    "chapter": "Environment",
+    "question": "Roughly what percentage of harmful substances in exhaust fumes do catalytic converters eliminate?",
+    "options": [
+      "40-50%",
+      "60-70%",
+      "80-95%",
+      "100%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Catalytic converters transform harmful exhaust substances into carbon dioxide and water, eliminating 80-95% of the harmful substances, once they reach their 400-600 degree C operating temperature.",
+    "images": []
+  },
+  {
+    "id": "ai-050",
+    "source": "ai-generated",
+    "chapter": "Eco-driving",
+    "question": "When engine braking, at what RPM should you shift to a lower gear to keep fuel consumption at zero?",
+    "options": [
+      "Just before 800-900 rpm",
+      "Just before 1,200-1,300 rpm",
+      "Just before 2,000-2,100 rpm",
+      "Just before 2,500 rpm"
+    ],
+    "correctIndex": 1,
+    "explanation": "You should shift down just before the rpm falls to 1,200-1,300, since below that level the engine starts consuming fuel again.",
+    "images": []
+  },
+  {
+    "id": "ai-051",
+    "source": "ai-generated",
+    "chapter": "Fuels",
+    "question": "What is required for a vehicle to be allowed to drive in a Class 3 environmental zone?",
+    "options": [
+      "Any Euro 6 diesel or petrol car",
+      "Only electric, fuel cell, or gas vehicles - petrol, diesel and even plug-in hybrids are prohibited",
+      "Any car fitted with a catalytic converter",
+      "Only heavy vehicles meeting Euro 6"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a Class 3 environmental zone, only electric vehicles, fuel cell vehicles and gas vehicles are allowed; petrol and diesel are prohibited, and plug-in hybrids are also prohibited.",
+    "images": []
+  },
+  {
+    "id": "ai-052",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "What does a road sign with the code A28 indicate?",
+    "options": [
+      "Roundabout ahead",
+      "Junction",
+      "Give way",
+      "Priority road"
+    ],
+    "correctIndex": 1,
+    "explanation": "A28 is the Junction sign, sometimes displayed to clarify that the priority-to-the-right rule applies at a particularly difficult junction.",
+    "images": []
+  },
+  {
+    "id": "ai-053",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "Which sign code corresponds to 'Priority road'?",
+    "options": [
+      "B1",
+      "B4",
+      "B5",
+      "E9"
+    ],
+    "correctIndex": 1,
+    "explanation": "B4 is the Priority road sign, normally displayed after every junction on a priority road; B5 is Priority road ends, and B1 is Give way.",
+    "images": []
+  },
+  {
+    "id": "ai-054",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "What category of sign do codes prefixed with the letter 'C' belong to?",
+    "options": [
+      "Warning signs",
+      "Priority signs",
+      "Prohibitory signs",
+      "Mandatory signs"
+    ],
+    "correctIndex": 2,
+    "explanation": "Signs prefixed 'C' are prohibitory signs (e.g. C27 No overtaking, C39 No stopping or parking), distinct from 'A' warning signs, 'B' priority signs, and 'D' mandatory signs.",
+    "images": []
+  },
+  {
+    "id": "ai-055",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "According to the mnemonic rule for direction arrow signs, what does a diagonal (slanting) arrow indicate?",
+    "options": [
+      "The direction you must follow",
+      "Which lane to use to pass (this side)",
+      "A warning of a junction ahead",
+      "A mandatory stop"
+    ],
+    "correctIndex": 1,
+    "explanation": "The mnemonic rule is: diagonal (twisted/slanting) arrows mean pass on this side, indicating the correct lane; horizontal/vertical straight arrows mean the direction to be followed.",
+    "images": []
+  },
+  {
+    "id": "ai-056",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "Which sign code is used for 'Give way'?",
+    "options": [
+      "B1",
+      "B2",
+      "B3",
+      "B6"
+    ],
+    "correctIndex": 0,
+    "explanation": "B1 is the Give way sign; B2 is Obligation to stop, and B3 is Pedestrian crossing.",
+    "images": []
+  },
+  {
+    "id": "ai-057",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "Which category of sign is E9 ('Home zone') part of?",
+    "options": [
+      "Warning signs (A)",
+      "Prohibitory signs (C)",
+      "Instruction signs (E)",
+      "Mandatory signs (D)"
+    ],
+    "correctIndex": 2,
+    "explanation": "E9 (Home zone) belongs to the 'Instruction signs' (E) category, alongside signs like E1 Motorway, E5 Built-up area, and E7 Pedestrian street.",
+    "images": []
+  },
+  {
+    "id": "ai-058",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "Which sign code is displayed at the actual entrance to a roundabout, obliging drivers to give way to traffic already circulating?",
+    "options": [
+      "A30",
+      "D3",
+      "B4",
+      "E9"
+    ],
+    "correctIndex": 1,
+    "explanation": "D3 is the Roundabout sign displayed at the entrance itself, obliging entering drivers to give way; A30 (Roundabout ahead) is instead an advance warning sign further back.",
+    "images": []
+  },
+  {
+    "id": "ai-059",
+    "source": "ai-generated",
+    "chapter": "Road signs",
+    "question": "What does the sign code C39 represent?",
+    "options": [
+      "No parking",
+      "No stopping or parking",
+      "Date parking",
+      "No overtaking"
+    ],
+    "correctIndex": 1,
+    "explanation": "C39 is the No stopping or parking sign; C35 is the separate No parking sign, which permits stopping but not parking.",
+    "images": []
+  },
+  {
+    "id": "ai-060",
+    "source": "ai-generated",
+    "chapter": "Court cases",
+    "question": "A driver's speedometer was faulty and showed 75 km/h while the car was actually travelling at 90 km/h. How did the court rule?",
+    "options": [
+      "The driver was not liable, since they trusted the speedometer",
+      "The driver was found guilty of speeding regardless of not knowing about the fault",
+      "The case was dismissed for lack of evidence",
+      "Only the vehicle manufacturer was held liable"
+    ],
+    "correctIndex": 1,
+    "explanation": "The supreme court considered this to be speeding even though the driver was not aware of the problem with the speedometer - drivers remain responsible for their actual speed.",
+    "images": []
+  },
+  {
+    "id": "ai-061",
+    "source": "ai-generated",
+    "chapter": "Court cases",
+    "question": "A driver parked where parking was prohibited because they had run out of fuel. What did the court rule?",
+    "options": [
+      "The fine was cancelled since running out of fuel is an emergency",
+      "The driver was still liable, as drivers must ensure their vehicle has enough fuel",
+      "The driver only had to pay a reduced fine",
+      "Fuel gauges were ruled unreliable, so no fine applied"
+    ],
+    "correctIndex": 1,
+    "explanation": "The court of appeal ruled that running out of fuel does not give a driver the right to leave their car in a prohibited parking place; drivers must ensure they have enough fuel.",
+    "images": []
+  },
+  {
+    "id": "ai-062",
+    "source": "ai-generated",
+    "chapter": "Court cases",
+    "question": "A driver stopped their car, where stopping was prohibited, specifically to help push a broken-down car out of the road. What was the outcome?",
+    "options": [
+      "The driver was fined, since stopping there was prohibited regardless of reason",
+      "The parking fine was cancelled, since the driver stopped to clear the road and make it accessible",
+      "The driver was charged with obstruction",
+      "The case set no legal precedent"
+    ],
+    "correctIndex": 1,
+    "explanation": "The court of appeal cancelled the parking fine, as the driver had stopped in order to clear the road and make it accessible, which is a recognised exception to the stopping prohibition.",
+    "images": []
+  }
+]
