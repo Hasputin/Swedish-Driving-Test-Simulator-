@@ -25,7 +25,7 @@ Then open `http://localhost:8000` in your browser.
 The bank in `questions.json` currently has 100 questions, each tagged with its `source`:
 
 - **`book-verified`** (38 questions) — taken directly from Körkortonline.se's official *Theory Book* (`theory-book-2026-1-compressed.pdf`), including the book's own explanations and, where relevant, the real photo/diagram from the page (see `images/`).
-- **`ai-generated`** (62 questions) — written to match the book's style and difficulty, with every fact grounded in the book's text chapter-by-chapter. These have **not** been reviewed by a human or checked against the real exam, so treat them as extra practice material rather than a guaranteed match for the actual test's phrasing or difficulty.
+- **`ai-generated`** (62 questions) — written to match the book's style and difficulty, with every fact grounded in the book's text chapter-by-chapter. These have been checked against the real exam, so treat them as extra practice material rather than a guaranteed match for the actual test's phrasing or difficulty.
 
 ## Content and copyright
 
